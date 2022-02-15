@@ -21,7 +21,7 @@ lsblk --list --fs
 fdisk /dev/YOUR_TARGET_DISK
 # make 2 partitions
 # 1 1500MB ( ~ 1.50GB ) of type EFI
-# 2 remaing space of type (ext4)
+# 2 remaining space of type (ext4)
 
 cryptsetup luksFormat /dev/sda2
 L="whatever"
