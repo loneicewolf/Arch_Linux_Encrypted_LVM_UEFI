@@ -1,5 +1,9 @@
 # Arch Linux Encrypted LVM UEFI
 
+`beware typos!`
+
+will clean this up later.
+
 - https://gist.github.com/loneicewolf/0bb0c303c331aa462754a0beebe0329e
 - https://gist.githubusercontent.com/loneicewolf/0bb0c303c331aa462754a0beebe0329e/raw/fb20081f1ffabeb10a5bf9c5765517097b154823/Guide.MD
 
